@@ -1,5 +1,30 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# AI Development Guidelines
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+The project owner is learning React, Next.js and Tailwind CSS.
+
+When generating code:
+
+- Prefer simple solutions over advanced patterns.
+- Explain architectural decisions when requested.
+- Keep components small and easy to understand.
+- Avoid unnecessary abstractions.
+- Use modern Next.js best practices.
+- Use TypeScript strictly.
+- Prefer readability over clever code.
+- Do not introduce libraries unless there is a clear benefit.
+- When creating a new file, briefly explain why it exists.
+- Keep the project beginner-friendly.
+
+## Coding Style
+
+- Use descriptive names.
+- Keep functions focused.
+- Prefer composition over inheritance.
+- Avoid duplicated code.
+- Keep files reasonably small.
+
+## Project Goals
+
+This project prioritizes learning over speed.
+
+Every implementation should help the developer understand how modern web applications are built.
